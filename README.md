@@ -1,6 +1,6 @@
 <div align="center">
   <h1> Hi there 👋</h1>
-  <h3>A Full-Stack Developer by day ☼ and a Full-Stack Developer by night ☾</h3>
+  <h3>A lecturer by day ☼ and a developer by night ☾</h3>
 </div>
 <div align="center">
   <a href="https://t.me/artem_tesnor">
