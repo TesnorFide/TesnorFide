@@ -6,9 +6,6 @@
   <a href="https://t.me/artem_tesnor">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="telegram-url">
-    <img src="https://tesnorfide.site/skillsnet.svg" alt="SkillsNet"/>
-  </a>
 </div>
 
 ### About me
