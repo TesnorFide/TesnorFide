@@ -12,8 +12,8 @@
 </div>
 
 ### About me
-- Working [OrderChecker](orderchecker)
-- Working [DataMatrix](datamatrix)
+- Working [OrderChecker](https://github.com/TesnorFide/orderchecker)
+- Working [DataMatrix](https://github.com/TesnorFide/datamatrix)
 
 ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/>&nbsp;
